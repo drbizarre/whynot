@@ -62,18 +62,18 @@
     <div class="topbar clearfix">
     	<div class="container">
 			<div class="col-lg-6 col-md-6 col-sm-12 text-left">
-                <div class="social_buttons">
+                <!--div class="social_buttons">
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i class="fa fa-google-plus"></i></a>
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Github"><i class="fa fa-github"></i></a>
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Dribbble"><i class="fa fa-dribbble"></i></a>
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="RSS"><i class="fa fa-rss"></i></a>
-                </div>
+                </div-->
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 text-right">
             	<div class="callus">
-                    <p><span><i class="fa fa-envelope-o"></i> contacto@whynot.mx</span> <span><i class="fa fa-phone"></i> +00 222 21 21</span></p>
+                    <p><span><i class="fa fa-envelope-o"></i> hola@whynot.mx</span> <span><i class="fa fa-phone"></i> 664 110-8064</span></p>
                 </div>
 			</div>
     	</div><!-- end container -->
@@ -85,7 +85,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-12 title-area pull-left">
                     <div class="site-title" id="title">
                         <a href="index-2.html" title="">
-                            <img src="http://www.whynot.mx/assets/images/logo-wn.png" alt="" style="margin-top:-30px; position:fixed;">	
+                            <img src="images/logo-wn.png" alt="">	
                         </a>
                     </div>
                 </div><!-- title area -->
@@ -95,7 +95,9 @@
                         <ul id="jetmenu" class="jetmenu blue">
                             <li class="active"><a href="#">Why Not?</a>
                             </li>
-                            <li><a href="#">Proyectos</a>
+                            <li><a href="#">Desarrollo Web</a>
+                            <li><a href="#">Diseño Web</a>
+                            <li><a href="#">SEO</a>
                                 <ul class="dropdown">
                                     <li><a href="single-portfolio-1.html">Todos</a></li>
                                     <li><a href="single-portfolio-2.html">Diseño</a></li>
@@ -112,48 +114,6 @@
                                 </ul>
                             </li>
                             <li><a href="#">Contacto</a>
-                            </li>
-                            <li class="right"><a href="#">Mega Menu</a>
-                                <div class="megamenu full-width">
-                                    <div class="row">
-                                        <div class="col2">
-                                        <h5 class="title">About us</h5>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
-                                        <a class="button small" href="#">read more</a>
-                                        </div>
-                                        <div class="col2">
-                                        <h5 class="title">Our Office</h5>
-                                            <div class="he-wrap tpl2">
-                                                <img src="demos/office.png" alt="" class="img-responsive">
-                                                <div class="he-view">
-                                                    <div class="bg a0"  data-animate="fadeIn">
-                                                        <div class="center-bar">
-                                                            <a href="#" class="twitter a0" data-animate="elasticInDown"></a>
-                                                            <a href="#" class="facebook a1" data-animate="elasticInDown"></a>
-                                                            <a href="#" class="google a2" data-animate="elasticInDown"></a>
-                                                            <a href="#" class="in a3" data-animate="elasticInDown"></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div><!-- he wrap -->
-                                        </div>
-                                        <div class="col2">
-                                        <h5 class="title">Contact Details</h5>
-                                            <ul class="contact_details">
-                                                <li><i class="fa fa-envelope-o"></i> support@yoursite.com</li>
-                                                <li><i class="fa fa-envelope-o"></i> info@yoursite.com</li>
-                                                <li><i class="fa fa-phone-square"></i> +90 04 333 02 22</li>
-                                                <li><i class="fa fa-home"></i> Istanbul Universitesi Iletisim Fakultesi, Istanbul, TURKEY</li>
-                                                <li><a href="#"><i class="fa fa-map-marker"></i> View large map</a></li>
-                                            </ul><!-- contact_details -->
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col6">
-                                        <iframe class="google-map" src="http://maps.google.com/?ie=UTF8&amp;ll=40.748151,-73.985131&amp;spn=0.012355,0.021007&amp;t=m&amp;z=16&amp;output=embed"></iframe>
-                                        </div>
-                                    </div>
-                                </div>
                             </li>
                         </ul>
                         </div>
