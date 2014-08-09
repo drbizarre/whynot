@@ -98,22 +98,8 @@
                             <li><a href="#">Desarrollo Web</a>
                             <li><a href="#">Diseño Web</a>
                             <li><a href="#">SEO</a>
-                                <ul class="dropdown">
-                                    <li><a href="single-portfolio-1.html">Todos</a></li>
-                                    <li><a href="single-portfolio-2.html">Diseño</a></li>
-                                    <li><a href="portfolio-2.html">SEO</a></li>
-                                    <li><a href="portfolio-3.html">Aplicaciones</a></li>
-                                    <li><a href="portfolio-4.html">E-commerce</a></li>
-                               </ul>
-                            </li>
-                            <li><a href="#">Servicios</a>
-                                <ul class="dropdown">
-                                    <li><a href="about.html">Diseño Web</a></li>
-                                    <li><a href="team-members.html">Aplicaciones Web</a></li>                                    
-                                    <li><a href="services.html">Posicionamiento</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Contacto</a>
+                            <li><a href="#">Colaboraciones</a>
+                            <li><a href="#">Contáctanos</a>
                             </li>
                         </ul>
                         </div>
@@ -453,9 +439,9 @@
 
     <section class="section2">
 		<div class="message text-center">
-            <h2 class="big-title">Te gustaría obtener los servicios de <span>Why Not</span> ?</h2>
-            <p class="small-title">Se parte de nuestros clientes satisfechos</p>
-            <a class=" button large" href="contact.html">CONTACTANOS AHORA</a>
+            <h2 class="big-title">Hemos colaborado con proyectos <span>muy interesantes</span></h2>
+            <!--p class="small-title">Se parte de nuestros clientes satisfechos</p-->
+            <a class=" button large" href="contact.html">Ve los proyectos en los que colaboramos</a>
 		</div><!-- end message -->
 	</section><!-- end section2 -->
 
