@@ -3,7 +3,7 @@
         	<div class="site-header clearfix">
                 <div class="col-lg-3 col-md-3 col-sm-12 title-area pull-left">
                     <div class="site-title" id="title">
-                        <a href="index-2.html" title="">
+                        <a href="index.php" title="">
                             <img src="images/logo-wn.png" alt="">	
                         </a>
                     </div>
@@ -16,8 +16,8 @@
                             <li><a href="servicios.php">Desarrollo Web</a>
                             <li><a href="servicios.php">Diseño Web</a>
                             <li><a href="servicios.php">SEO</a>
-                            <li><a href="#">Colaboraciones</a>
-                            <li><a href="#">Contáctanos</a>
+                            <li><a href="colaboraciones.php">Colaboraciones</a>
+                            <li><a href="contactanos.php">Contáctanos</a>
                             </li>
                         </ul>
                         </div>
