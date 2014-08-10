@@ -40,17 +40,8 @@
                 <div class="divider"></div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="he-wrap tpl2">
-                        <img src="demos/office.png" alt="" class="img-responsive">
-                        <div class="he-view">
-                            <div class="bg a0"  data-animate="fadeIn">
-                                <div class="center-bar">
-                                    <a href="#" class="twitter a0" data-animate="elasticInDown"></a>
-                                    <a href="#" class="facebook a1" data-animate="elasticInDown"></a>
-                                    <a href="#" class="google a2" data-animate="elasticInDown"></a>
-                                    <a href="#" class="in a3" data-animate="elasticInDown"></a>
-                                </div>
-                            </div>
-                        </div>
+                        <img src="demos/office.png" alt="" class="img-responsive " data-effect="fall">
+
                     </div><!-- he wrap -->
 				</div><!-- end col-4 -->
 
@@ -72,7 +63,11 @@
   			</div><!-- end content -->
 		</div><!-- end container -->
 	</section><!-- end section -->
-   
+
+    <!-- start call to action -->
+    <?php include("layouts/call2action.php"); ?>
+    <!-- start call to action -->    
+    
     <!-- start footer -->
     <?php include("layouts/footer.php");  ?>
     <!-- end footer -->

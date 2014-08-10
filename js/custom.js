@@ -83,7 +83,7 @@
 		lazyLoad : true,
 		transitionStyle:"fade",
 		navigation : true,
-		pagination : false,
+		pagination : false
 	});
 
 // tooltip demo

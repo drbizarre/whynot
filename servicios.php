@@ -81,7 +81,11 @@
   			</div><!-- end content -->
 		</div><!-- end container -->
 	</section><!-- end section -->
-   
+
+    <!-- start call to action -->
+    <?php include("layouts/call2action.php"); ?>
+    <!-- start call to action -->    
+       
     <!-- start footer -->
     <?php include("layouts/footer.php");  ?>
     <!-- end footer -->

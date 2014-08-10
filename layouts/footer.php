@@ -7,12 +7,12 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 columns text-right">
                     <div class="footer-menu right">
                         <ul class="menu">
-                            <li><a href="#">Why Not?</a></li>
-                            <li><a href="#">Desarrollo Web</a>
-                            <li><a href="#">Diseño Web</a>
-                            <li><a href="#">SEO</a>
-                            <li><a href="#">Colaboraciones</a>
-                            <li><a href="#">Contáctanos</a>
+                            <li><a href="conoce-whynot.php">Why Not?</a></li>
+                            <li><a href="servicios.php">Desarrollo Web</a>
+                            <li><a href="servicios.php">Diseño Web</a>
+                            <li><a href="servicios.php">SEO</a>
+                            <li><a href="colaboraciones.php">Colaboraciones</a>
+                            <li><a href="contactanos.php">Contáctanos</a>
                         </ul>
                     </div>
                 </div><!-- end large-6 -->   
