@@ -222,7 +222,7 @@
     <!-- end section2 -->
     <section class="section2">
 		<div class="message text-center">
-            <h2 class="big-title">Hemos saweee colaborado con proyectos <span>muy interesantes</span></h2>
+            <h2 class="big-title">Hemos saweeee colaborado con proyectos <span>muy interesantes</span></h2>
             <!--p class="small-title">Se parte de nuestros clientes satisfechos</p-->
             <a class=" button large" href="<?php echo route('colaboraciones'); ?>">Conócelos</a>
 		</div><!-- end message -->
