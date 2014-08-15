@@ -108,7 +108,7 @@
                                 </div><!-- he view -->		
                             </div><!-- he wrap -->
                              <h3 class="title">Aptitud Psicología</h3>
-                            <ul>>
+                            <ul>
                               <li>Diseño Web</li>
                               <li><a target="_blank" href="http://www.aptitudpsicologia.com" title="Aptitud Psicología">www.aptitudpsicologia.com</a></li>
                               <li>Diseño de sitio web de información corporativa. </li>

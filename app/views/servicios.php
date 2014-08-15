@@ -21,9 +21,9 @@
                 <ul class="breadcrumb">
                     <li><a href="<?php link_to_action('SiteController@showIndex'); ?>">Inicio</a></li>
                     <li>Servicios</li>
-                    <li>Desarollo Web</li>
+                    <li>Desarrollo Web</li>
                 </ul>
-                <h2>Desarollo Web</h2>
+                <h2>Desarrollo Web</h2>
             </div>
 
         </div>
@@ -51,7 +51,7 @@
                     <p>En ¿Why Not? nos preocupamos por el usuario final: <strong>el visitante</strong>. Nos interesa ofrecer el contenido de tu sitio web de la mejor forma para su correcta visualización.</p>
                     <p>Con el correcto consumo de información aumentan tremendamente las posibilidades de interacción con el visitante, esto se traduce en oportunidades de venta.</p>
                     <p>Estamos convencidos que un sitio web funcional es la mejor herramienta de venta.</p>
-                    <p>Tenemos en nuestra área de proyectos ejemplos reales de casos de éxito de nuestros <a title="servicios" href="http://www.whynot.mx/servicios">servicios</a>, visítala y contáctanos.</p>
+                    <p>Tenemos en nuestra área de proyectos ejemplos reales de casos de éxito de nuestros <a title="servicios" href="<?php echo route('colaboraciones'); ?>">servicios</a>, visítala y contáctanos.</p>
       
                 </div>
                 <div class="tab-pane <?php echo (isset($section) && $section=='seo')?'active':''; ?>" id="seoservices">
@@ -64,10 +64,10 @@
                 <li>Lenguaje estandarizado de acuerdo a la audiencia.</li>
                 </ul>
                 <p>¿Why not? tiene experiencia en el proceso de aumentar el tráfico de sitios de manera orgánica y elevar el ranking de posicionamiento.</p>
-                <p>Te invitamos a visitar la sección de <a title="proyectos" href="http://www.whynot.mx/proyectos">Proyectos</a> y revisar las colaboraciones que hemos realizado con gran éxito.</p>
+                <p>Te invitamos a visitar la sección de <a title="proyectos" href="<?php echo route('colaboraciones'); ?>">Proyectos</a> y revisar las colaboraciones que hemos realizado con gran éxito.</p>
                 <p>El <strong>SEO</strong> no es un producto empaquetado que se compra, sino un proceso de estrategias constantes para lograr el objetivo a lo largo del tiempo y contra la competencia.</p>
-                <p>Permitenos realizar a tu sitio web un análisis de factibilidad de las palabras que deseas posicionar ó mejor aún permitenos diseñar tu sitio web potenciando el SEO en él.</p>
-                <p>Garantizamos tu satisfacción 100% con metas reales y comproblables.</p>
+                <p>Permítenos realizar a tu sitio web un análisis de factibilidad de las palabras que deseas posicionar ó mejor aún permtenos diseñar tu sitio web potenciando el SEO en él.</p>
+                <p>Garantizamos tu satisfacción 100% con metas reales y comprobables.</p>
                        
                 </div>
               </div>
