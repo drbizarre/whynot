@@ -59,8 +59,8 @@
                     <ul class="contact_details">
                         <li><i class="fa fa-envelope-o"></i> hola@whynot.mx</li>
                         
-                        <li><i class="fa fa-phone-square"></i>  664 110-8064</li>
-                        <li><i class="fa fa-home"></i> Av Revolución 1025 Zona Centro Tijuana, Baja California, Mexico</li>
+                        <li><i class="fa fa-phone-square"></i>  664 684-3787</li>
+                        <li><i class="fa fa-home"></i> Ave. Cerro de la silla 100, Interior G, Fracc. Laderas de Monterrey, Tijuana, Baja California, Mexico</li>
                     </ul><!-- contact_details -->
                 </div>
     
