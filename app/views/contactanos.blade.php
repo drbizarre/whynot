@@ -60,7 +60,7 @@
                         <li><i class="fa fa-envelope-o"></i> hola@whynot.mx</li>
                         
                         <li><i class="fa fa-phone-square"></i>  664 684-3787</li>
-                        <li><i class="fa fa-home"></i> Ave. Cerro de la silla 100, Interior G, Fracc. Laderas de Monterrey, Tijuana, Baja California, Mexico</li>
+                        <li><i class="fa fa-home"></i> Ave. Cerro de la silla 100, Interior G, Fracc. Laderas de Monterrey, Tijuana, Baja California, México</li>
                     </ul><!-- contact_details -->
                 </div>
     
@@ -82,8 +82,8 @@
 	<script src="js/jquery.gmap.js"></script>
 		<script>
 			var mapMarkers = [{				
-				address: "Av Revolución 1025 Zona Centro Tijuana, Baja California, Mexico",
-				html: "<strong>Why Not?</strong><br>Av Revolución 1025 Zona Centro Tijuana, Baja California, Mexico<br><br><a href='#' onclick='mapCenterAt({latitude: 32.530217, longitude: -117.036811, zoom: 16}, event)'>[+] ampliar</a>",
+				address: "Ave. Cerro de la silla 100, Interior G, Fracc. Laderas de Monterrey, Tijuana, Baja California, México",
+				html: "<strong>Why Not?</strong><br>Ave. Cerro de la silla 100, Interior G, Fracc. Laderas de Monterrey, Tijuana, Baja California, México<br><br><a href='#' onclick='mapCenterAt({latitude: 32.5042604, longitude: -117.02285409999999, zoom: 16}, event)'>[+] ampliar</a>",
 				icon: {
 					image: "images/pin.png",
 					iconsize: [100, 100],
@@ -91,8 +91,8 @@
 				}
 			}];
 			<!-- select location on here : http://itouchmap.com/latlong.html -->
-			var initLatitude = 32.530217;
-			var initLongitude = -117.036811;
+			var initLatitude = 32.5042604;
+			var initLongitude = -117.02285409999999;
 			var mapSettings = {
 				controls: {
 					panControl: true,
