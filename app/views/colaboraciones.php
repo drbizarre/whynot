@@ -200,7 +200,7 @@
                             </ul>
                         </div><!-- end col-12 -->
 
-                        <div class="portfolio-item col-lg-4 col-md-4 col-sm-6 col-xs-12 web-design app">
+                        <div class="portfolio-item col-lg-4 col-md-4 col-sm-6 col-xs-12 web-design app hide">
                             <div class="he-wrap tpl6 market-item">
                                 <img src="http://www.whynot.mx/assets/images/clientes/encontact.jpg" alt="">
                                 <div class="he-view">
