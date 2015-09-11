@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', 'SiteController@showIndex');
+Route::get('/', 'SiteController@showColaboraciones');
 Route::get('conoce-whynot', array('as' => 'conoce-whynot', 'uses' => 'SiteController@showAboutUs'));
 Route::get('desarrollo-web', array('as' => 'desarrollo-web', 'uses' => 'SiteController@showDesarrollo'));
 Route::get('disenio-web', array('as' => 'disenio-web', 'uses' => 'SiteController@showDisenio'));
