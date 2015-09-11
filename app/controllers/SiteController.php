@@ -17,6 +17,7 @@ class SiteController extends BaseController {
 
 	public function showIndex()
 	{
+		/*
 		$view = View::make('index');
 		$view->nest('head', 'commons.head');
 		$view->nest('top', 'commons.top');
@@ -25,6 +26,16 @@ class SiteController extends BaseController {
 		$view->nest('footer', 'commons.footer');
 		$view->nest('scripts', 'commons.scripts');
 		return $view;
+		*/
+		$view = View::make('colaboraciones');
+		$view->nest('head', 'commons.head');
+		$view->nest('top', 'commons.top');
+		$view->nest('header', 'commons.header');
+		$view->nest('call2action', 'commons.call2action');
+		$view->nest('footer', 'commons.footer');
+		$view->nest('scripts', 'commons.scripts');
+		View::share('option', 'colaboraciones');
+		return $view;		
 	}
 	public function showAboutUs()
 	{
